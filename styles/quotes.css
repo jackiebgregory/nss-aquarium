@@ -1,3 +1,25 @@
+.quotes--block {
+  background-color: lightblue;
+  margin: 1em;
+  padding: 1em;
+  border: 3px dotted goldenrod;
+}
+
+.header--quotes {
+  margin: 1em;
+  text-align: center;
+}
+
+.section--quotes {
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+}
+
 .quotes {
   border: 3px dotted goldenrod;
+  margin: 1em;
+  padding: 1em;
+  font-style: italic;
+  background-color: white;
 }

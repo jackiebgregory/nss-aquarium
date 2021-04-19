@@ -1,3 +1,17 @@
+.header--locations {
+  margin: 1em;
+  text-align: center;
+}
+
+.section--locations {
+  display: flex;
+  flex-shrink: 3;
+  text-align: center;
+  justify-content: center;
+}
+
 .locations {
   border: 3px dotted goldenrod;
+  margin: 1em;
+  padding: 1em;
 }

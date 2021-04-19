@@ -1,3 +1,20 @@
+.fishes {
+  display: flex;
+  justify-content: center;
+}
+
+.header--fishes {
+  margin: 1em;
+  text-align: center;
+}
+
+.fish-photos {
+  border-radius: 50%;
+}
+
 .fish {
   border: 3px dotted goldenrod;
+  margin: 1em;
+  padding: 1em;
+  text-align: center;
 }
